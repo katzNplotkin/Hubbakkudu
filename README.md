@@ -1,6 +1,6 @@
 # Hubbakkudu
 Last updated : 13 May 2018   
-IIT Madras DC Hubs   
+IIT Madras DC Hub List   
 
 Hubs | Address | Status  
 --- | --- | ---   
