@@ -11,4 +11,4 @@ pseudiPai   | dchub://10.22.9.228   | offline
 Bioscope    | dchub://10.22.13.71   | offline 
 
 
-Note: To add a working hub to this list, fork a copy and send a pull request.
+*Note*: To add a working hub to this list, fork a copy and send a pull request.
