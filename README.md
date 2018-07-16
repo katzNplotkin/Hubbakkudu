@@ -1,10 +1,10 @@
 # Hubbakkudu
-Last updated : 13 July 2018   
+Last updated : 16 July 2018   
 IIT Madras DC Hub List   
 
 Hubs | Address | Status  
 --- | --- | ---   
-Hubbakkudu  | dchub://10.21.40.164  | **online**  
+Hubbakkudu  | dchub://10.21.40.164  | **offline** (Will be online from 17th July)  
 Konoha      | dchub://10.22.34.6    | offline
 GGMU        | dchub://10.21.138.13  | offline 
 pseudiPai   | dchub://10.22.9.228   | offline 
