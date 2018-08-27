@@ -5,7 +5,7 @@ IIT Madras DC Hub List
 Hubs | Address | Status  
 --- | --- | ---   
 Hubbakkudu  | dchub://10.21.41.182  | **online**
-HakunaMatata  | adc://10.22.9.80:1511  | offline
+HakunaMatata  | adc://10.22.9.152:1511  | **online**
 
 
 
