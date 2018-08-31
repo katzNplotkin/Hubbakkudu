@@ -1,10 +1,10 @@
 # Hubbakkudu
-Last updated : 27 August 2018   
+Last updated : 31 August 2018   
 IIT Madras DC Hub List   
 
 Hubs | Address | Status  
 --- | --- | ---   
-Hubbakkudu  | dchub://10.21.41.182  | **online**
+Hubbakkudu  | dchub://10.21.40.129  | **online**
 HakunaMatata  | adc://10.22.9.152:1511  | **online**
 
 
