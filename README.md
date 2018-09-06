@@ -1,5 +1,5 @@
 # Hubbakkudu
-Last updated : 1 September 2018   
+Last updated : 6 September 2018   
 IIT Madras DC Hub List   
 
 Hubs | Address | Status | Messages
