@@ -2,7 +2,7 @@
   <img src="obsolete.png" alt="OBSOLETE" width="150"/>
 </p>
 
-**Note: This repo is now obsolete. An automatically updated version is provided at [IIT-Madras-DC-Hubs](https://github.com/katzNplotkin/IIT-Madras-DC-Hubs)**
+**Note: This repo is now obsolete. An automatically updated version is provided at [IIT-Madras-DC-Hubs](https://katznplotkin.github.io/IIT-Madras-DC-Hubs/)**
 
 # Hubbakkudu
 Last updated : 6 September 2018   
